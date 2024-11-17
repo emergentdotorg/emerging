@@ -8,7 +8,7 @@ on:
       next-snapshot-version:
         description: 'Next Snapshot Version'
       dry-run:
-        description: 'Whether the job should actually commit or deploy'
+        description: 'Dry-run'
         type: boolean
         required: false
         default: false
